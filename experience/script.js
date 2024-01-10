@@ -55,10 +55,10 @@ document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
         document.title = "Experience | Portfolio Alwin Kishore";
-        $("#favicon").attr("href","/assets/images/favicon.ico");
+        $("#favicon").attr("href", "/assets/images/logo.png");
     }
     else {
         document.title = "Experience | Portfolio Alwin Kishore";
-        $("#favicon").attr("href","/assets/images/favicon.ico");
+        $("#favicon").attr("href", "/assets/images/logo.png");
     }
 });
