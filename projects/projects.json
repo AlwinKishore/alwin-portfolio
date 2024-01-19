@@ -1,12 +1,12 @@
 [
   {
-    "name": "Tracky: Track Goal Android",
-    "desc": "Tracky is an Android App that assists you in achieving success by keeping track of your daily goals.",
-    "image": "tracky",
-    "category": "native_android",
+    "name": "Image to Text Converter",
+    "desc": "Extract the text from the image and Convert it into ‘pdf’, ‘doc’ and ‘txt’ format.",
+    "image": "DIP_Project",
+    "category": "Python",
     "links": {
-      "view": "https://play.google.com/store/apps/details?id=achivementtrackerbyamit.example.achivetracker",
-      "code": "https://github.com/maityamit/Tracky-Track-your-goals-or-targets"
+      "view": "",
+      "code": "https://github.com/AlwinKishore/mini_project_on_DIP"
     }
   },
   {
