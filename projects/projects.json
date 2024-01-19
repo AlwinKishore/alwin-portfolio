@@ -2,11 +2,21 @@
   {
     "name": "Image to Text Converter",
     "desc": "Extract the text from the image and Convert it into ‘pdf’, ‘doc’ and ‘txt’ format.",
-    "image": "DIP_Project",
+    "image": "img_to_text",
     "category": "Python",
     "links": {
       "view": "",
       "code": "https://github.com/AlwinKishore/mini_project_on_DIP"
+    }
+  },
+  {
+    "name": "Plant Species Recognition",
+    "desc": "'Plant species recognition using CNN in deep learning' aims to develop a deep learning-based model for accurately identifying and classifying plant species",
+    "image": "plant_species",
+    "category": "Python",
+    "links": {
+      "view": "",
+      "code": "https://github.com/AlwinKishore/Plant-Species-Recognition"
     }
   },
   {
