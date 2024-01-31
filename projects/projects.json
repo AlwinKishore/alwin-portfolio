@@ -21,7 +21,7 @@
   },
   {
     "name": "Youtube Comment Sentiment Analysis Using NLP",
-    "desc": "Using sentiment analysis to evaluate the user comments' tone and categorize them as positive, negative, or neutral using SentimentIntensityAnalyzer and SentiWordNet text analysis methods in the NLTK library.",
+    "desc": "SentimentIntensityAnalyzer and SentiWordNet Text Analysis Methods in the NLTK Library are applied To determine The Tone of The User Comments And Classify them As Positive, Negative, Or Neutral.",
     "image": "youtube_sentiment",
     "category": "Python",
     "links": {
