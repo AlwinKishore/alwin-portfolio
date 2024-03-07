@@ -1,5 +1,15 @@
 [
   {
+    "name": "Thirkkural Learning Website",
+    "desc": "Website to learn Thirkkural in both Tamil and English, developed using React JS",
+    "image": "thirukkural",
+    "category": "React JS",
+    "links": {
+      "view": "https://alwinkishore.github.io/thirukkural/",
+      "code": "https://github.com/AlwinKishore/thirukkural"
+    }
+  },
+  {
     "name": "Image to Text Converter",
     "desc": "Extract the text from the image and Convert it into ‘pdf’, ‘doc’ and ‘txt’ format.",
     "image": "img_to_text",

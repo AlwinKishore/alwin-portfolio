@@ -470,7 +470,7 @@ header .navbar ul li a:hover {
 
 /* skills section starts */
 .skills {
-  min-height: 90vh;
+  min-height: 55vh;
   background: linear-gradient(to bottom, #57059e, #4a00e0);
 }
 .skills h2 {
@@ -723,7 +723,7 @@ header .navbar ul li a:hover {
 .work .box-container .box img {
   height: 100%;
   width: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 .work .box-container .box .content {
   height: 100%;
